@@ -1,2 +1,4 @@
-# javascript-books
-JavaScript books
+# Books for developers
+
+## JavaScript books
+- You Don't Know JS: This & Object Prototypes
